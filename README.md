@@ -4,7 +4,6 @@
   </h1>
   <p> 
     | Full Stack Developer | Web Developer |
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVjMmF3NTdvc29wdjVvb2swc2Zrc3BoaWRxaXprMGE4bzV1Mjd1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZO8yb82MVgJu5y9LDe/giphy.gif" style= "width: 100%; height: 2rem ">
   </p>
 </div>
 
@@ -45,5 +44,3 @@ In my free time, I enjoy taking online courses, watching anime, reading manga, a
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Csar-06&layout=compact&theme=tokyonight)
 ![Stats](https://github-readme-stats.vercel.app/api?username=Csar-06&show_icons=true&theme=tokyonight)
-
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVjMmF3NTdvc29wdjVvb2swc2Zrc3BoaWRxaXprMGE4bzV1Mjd1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZO8yb82MVgJu5y9LDe/giphy.gif" style= "width: 100%; height: 2rem ">
